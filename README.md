@@ -12,7 +12,7 @@ The project demonstrates the efficiency and differences between multithreading a
 
 ## Key Performance Metrics
 -- Multithreading: Execution was 2.3× faster than the naive approach.  
-- Multiprocessing: Execution was 2× faster than the naive approach.
+-- Multiprocessing: Execution was 2× faster than the naive approach.
 
 ## Conclusion
 This project successfully demonstrates the advantages and trade-offs between multithreading and multiprocessing in operating systems. Further optimizations can enhance performance and stability.
